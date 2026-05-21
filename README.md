@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 Stream — AI-Powered Data Science Studio
+# 🧠 DSS — AI-Powered Data Science Studio
 
 **An end-to-end, no-code data science platform built for students, researchers, and analysts.**  
 Upload your data. Let AI guide you. Build ML pipelines. Generate reports. All in one place.
