@@ -1,0 +1,6 @@
+{
+    "roles": {
+        "planner": "deepseek-r1:1.5b",
+        "writer": "llama3.2:latest"
+    }
+}

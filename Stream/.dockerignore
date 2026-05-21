@@ -1,0 +1,17 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv
+venv
+env
+.git
+.gitignore
+.idea
+.vscode
+.DS_Store
+*.csv
+*.xlsx
+*.parquet
+node_modules

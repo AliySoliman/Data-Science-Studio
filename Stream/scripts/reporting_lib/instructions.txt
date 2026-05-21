@@ -1,0 +1,12 @@
+1 : Refine model_report file so every report item is completely independent from others (make every item in a different function)
+Look in Knn model or Knn_Regressor to get the structure 
+
+2 : adjust model script function so it retunrns only JSON accepted items (only text , numbers , boolean,list,map) 
+Look in Knn model or Knn_Regressor to get the structure and how to adjust the script output
+
+3 : in constants.py adjust your model to take one more parameter : metrics_snapshots
+
+4 : in file reports_execution.py add your report items functions in the Function_map like other items and donot forget to import them first 
+
+5 : in model_reporting_setup.py add your model function names like other models and a description infront of each model descriping it like a plot or text or table 
+
